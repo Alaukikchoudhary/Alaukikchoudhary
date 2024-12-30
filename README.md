@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alaukikchoudhary
+- 👋 Hi, I’m @Alaukik choudhary
 - 👀 I’m interested in web development and app application development 
-- 🌱 I’m currently learning artificial intelligence and data science (BTech)
+- 🌱 I’m currently pursuing artificial intelligence and data science (BTech)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
